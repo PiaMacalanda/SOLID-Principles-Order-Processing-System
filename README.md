@@ -24,13 +24,6 @@ The program is structured into several Java files, each representing a single re
 - `EmailNotification.java`: Implementation of the `Notification` interface.
 - `OrderTest.java`: Main class that orchestrates the order processing flow.
 
-## Setup and Execution
-To run the project, ensure you have Java installed on your system. Compile the Java files using `javac` and then run the `OrderTest` class:
-
-```bash
-javac Order.java Invoice.java Notification.java OrderAction.java InvoiceAction.java EmailNotification.java OrderTest.java
-java OrderTest
-
 ## Credits
 
 This project is part of Sir Jerry Esperanza's lab assignment 6, focusing on the implementation of SOLID principles to an order processing system in an object-oriented programming paradigm.
@@ -38,3 +31,11 @@ This project is part of Sir Jerry Esperanza's lab assignment 6, focusing on the 
 ## Programmer's Name
 
 - [Pia V. Macalanda]
+
+## Setup and Execution
+To run the project, ensure you have Java installed on your system. Compile the Java files using `javac` and then run the `OrderTest` class:
+
+```bash
+javac Order.java Invoice.java Notification.java OrderAction.java InvoiceAction.java EmailNotification.java OrderTest.java
+java OrderTest
+
