@@ -24,6 +24,9 @@ The program is structured into several Java files, each representing a single re
 - `EmailNotification.java`: Implementation of the `Notification` interface.
 - `OrderTest.java`: Main class that orchestrates the order processing flow.
 
+  ![UML Diagram LAB ASS#6](https://github.com/PiaMacalanda/SOLID-Principles-Order-Processing-System/assets/130662592/3953534f-7a01-42ad-84ec-00cf10c12863)
+
+
 ## Credits
 
 This project is part of Sir Jerry Esperanza's lab assignment 6, focusing on the implementation of SOLID principles to an order processing system in an object-oriented programming paradigm.
