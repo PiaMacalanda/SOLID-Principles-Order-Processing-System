@@ -33,7 +33,7 @@ This project is part of Sir Jerry Esperanza's lab assignment 6, focusing on the 
 
 ## Programmer's Name
 
-- [Pia V. Macalanda]
+- Pia V. Macalanda
 
 ## Setup and Execution
 To run the project, ensure you have Java installed on your system. Compile the Java files using `javac` and then run the `OrderTest` class:
