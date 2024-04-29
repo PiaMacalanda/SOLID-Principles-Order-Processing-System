@@ -1,8 +1,8 @@
-/**
- * Dependency Principles
- */
+public class CashPayment implements PaymentMethod{
 
-public class CashPayment{
+    @Override
+    public void processPayment (Order order){
 
-    
-}
+        System.out.println ("You are paying using Cash");
+     }
+  }

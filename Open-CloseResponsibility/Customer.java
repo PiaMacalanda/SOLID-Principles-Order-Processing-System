@@ -1,4 +1,4 @@
-public class Costumer{
+public class Customer{
 
     private String name;
     private Discount discount;
